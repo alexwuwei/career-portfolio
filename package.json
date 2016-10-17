@@ -1,0 +1,29 @@
+{
+  "name": "career-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexwuwei/career-portfolio.git"
+  },
+  "author": "Hugo A Guerra <guerrahugoa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexwuwei/career-portfolio/issues"
+  },
+  "homepage": "https://github.com/alexwuwei/career-portfolio#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-webpack": "^1.5.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
